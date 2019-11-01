@@ -1,2 +1,2 @@
-# CS410
-Assignment 1
+# CS 410
+Raytracer
