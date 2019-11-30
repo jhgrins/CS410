@@ -19,6 +19,8 @@
 
 using namespace std;
 
+// Seeing if this git stuff works
+
 vector<Light> createLights(const vector<vector<double>>& orig){
     vector<Light> lits;
     for(vector<double> vec : orig) {
