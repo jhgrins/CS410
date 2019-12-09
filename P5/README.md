@@ -1,1 +1,1 @@
-# Josette's Assignment 5 (Monte Carlo Raytracing)
+# Josette's Assignment 5 (Animated Raytracing)
